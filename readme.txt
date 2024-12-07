@@ -6,7 +6,7 @@ https://github.com/Koumakyouexit/SpamEmailVI/releases/tag/spamail
 
 I just made it in my spare time, I won't be responsible if you use it and cause consequences!
 
-Copyright by Kome's Stuff. 
+Copyright by Kome's Stuff - 2024. 
 Kome's Stuff © 2024 by Kasane Kome is licensed under Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International 
 profile: kochiwa.carrd.co
 fb: fb.com/komekasane

@@ -4,6 +4,10 @@ https://cdn.discordapp.com/attachments/1197088650584915969/1315020651110731837/i
 dowload from:
 https://github.com/Koumakyouexit/SpamEmailVI/releases/tag/spamail
 
+just run 
+
+python main.py
+
 I just made it in my spare time, I won't be responsible if you use it and cause consequences!
 
 Copyright by Kome's Stuff - 2024. 
